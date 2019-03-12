@@ -1,1 +1,1 @@
-docker build  -t nginx/hash_calculator .
+docker build --no-cache -t nginx/hash_calculator .

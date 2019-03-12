@@ -1,1 +1,1 @@
-docker build  -t nginx/balancer .
+docker build --no-cache -t nginx/balancer .
